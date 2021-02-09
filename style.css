@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono&display=swap");
+body {
+  font-family: 'Space Mono', monospace;
+}
+
+body .logo {
+  font-family: 'Inconsolata', monospace;
+}
+/*# sourceMappingURL=style.css.map */
